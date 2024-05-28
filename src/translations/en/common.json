@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "name": "Marika Abe Lamour",
+    "past_work": "Past Work",
+    "skills": "Skills",
+    "testimonials": "Testimonials",
+    "hire_me": "Hire Me"
+  },
+  "about": {
+    "name" : "Hi, I'm Marika.",
+    "introduction" : "I love learning new technologies.",
+    "descriptions" :  "\uD83C\uDF93 Recently graduated with a \"Développeur web full stack\" diploma after completing a year-long alternance at QuickMS !",
+    "work_with_me" : "Work With Me",
+    "see_my_past_work" : "See My Past Work"
+  },
+  "project": {
+    "title" : "Apps I've Built",
+    "description" : "Below are some of the projects I've built using Symfony, React, API, PHP Native and MySQL. Each project showcases my skills in these technologies.",
+    "umami": {
+      "title": "Symfony Tracks",
+      "subtitle": "Symfony and API",
+      "description": "UMAMI is a web platform designed for the culinary community transcending cultural barriers. This project is using API themealdb.com"
+    },
+    "ez_shopping": {
+      "title": "React Tracks",
+      "subtitle": "React and API",
+      "description": "Project EZ Shopping is a React-based endeavor, seamlessly interfacing with the Fake Store API for an immersive shopping experience."
+    },
+    "french_school_mvc": {
+      "title": "PHP Tracks",
+      "subtitle": "PHP and Javascript",
+      "description": "Discover a fusion of native PHP and JavaScript in this project. Explore a French learning app with quizzes and listening exercises."
+    },
+    "pokemon": {
+      "title": "React Tracks",
+      "subtitle": "React and API",
+      "description": "This React project using PokéAPI to create and manage Pokémon teams. Explore Pokémon information without the need for page reloading."
+    }
+  },
+  "skills" : {
+    "title" : "Skills & Technologies",
+    "description" : "Below, you'll find a comprehensive overview of my skills, experiences, and tools utilized throughout my previous work and studies."
+  },
+  "testimonials": {
+    "testimonial_one": {
+      "quote": "Marika is a Junior Developer, who managed to get up to speed very quickly on a Symfony 4 / PHP 7.4 project. She started with simple / repetitive tasks, and ended with the implementation of a new time and activity entry module. Marika understands and adapts very quickly to the context of the project, which allows us to move forward very quickly and to rely on her skills to bring projects to a successful conclusion",
+      "name": "Emmanuel BOCQUET",
+      "company": "QuickMS"
+    },
+    "testimonial_two": {
+      "quote": "It's a pleasure to work with Marika! She has been a valuable addition to our team with her technical skills, critical thinking, and constant positive attitude. She is a person with whom it is pleasant to exchange ideas, but who is also productive and efficient. Although our professional paths have diverged, she will remain a true asset for our team and a real gain for her next opportunity.",
+      "name": "Anthony PERRIER",
+      "company": ""
+    },
+    "testimonial_three": {
+      "quote": "Marika is an extremely talented apprentice developer! Throughout her time with us, she has demonstrated a remarkable ability to quickly assimilate new skills. Her natural curiosity and commitment to learning make her a dynamic force within our team. Marika brings a fresh and creative perspective to our projects, and her passion for development shines through in the quality of her work. We are lucky to have her with us and look forward to seeing her bright future in the field of development.",
+      "name": "Aziza MOUHOUB"
+    },
+    "testimonial_four": {
+      "quote": "Marika is a friendly colleague. The projects led by Marika are always carried out with seriousness and professionalism. Her passion for web development is a real asset! I am convinced that she will carry out her future projects with the same rigor and seriousness. Bravo Marika!",
+      "name": "Sofia Rifiki",
+      "company": "QuickMS"
+    },
+    "testimonial_five": {
+      "quote": "Marika is someone who truly engages in her work. During this year, I worked in the same development team. Her attention to detail and exceptional listening skills make her a remarkable professional. Her level of skill, particularly high for a junior profile, demonstrates her commitment to excellence in development. Marika is a real asset to a team and will fit perfectly into different projects.",
+      "name": "Jennifer Boî",
+      "company": ""
+    },
+    "testimonial_six": {
+      "quote": "Marika is a pleasure to work with! She has been an asset to our team through her technical skills, critical thinking, and constant good spirits. She is someone who is pleasant to interact with, but also productive and efficient. Though our professional paths have separated, she will remain a real loss for our team and a real gain for her next endeavor.",
+      "name": "Laure CHAPERT",
+      "company": ""
+    },
+    "testimonial_seven": {
+      "quote": "Marika Abe Lamour is a web developer whose hands-on approach and technical understanding clearly stand out. Throughout her apprenticeship at QuickMS and her training at the 3W Academy, Marika has demonstrated her competence in web development, particularly in HTML, CSS, JavaScript, PHP, and Symfony 4.4. What is impressive about Marika is her ability to embrace challenges and continually improve herself. With a professional background including English-Japanese translation and teaching, she brings an enriching perspective to her web development work. Her personal project (visible at https://marika-abe.fr/) and her final project at AFPA demonstrate her commitment and creativity. As an apprentice application developer at QuickMS, Marika has demonstrated excellent collaboration and project management skills, using tools like JIRA, Bitbucket, and Git. Her proficiency in MySQL databases and experience with remote work complement her versatile profile. Marika Abe Lamour is therefore a committed and adaptable professional, ready to make a significant contribution in the field of web development. Her potential to enrich a team and successfully lead innovative projects is undeniable.",
+      "name": "Christine Vincent-Giuliano",
+      "company": "QuickMS"
+    },
+    "title" : "Recommendation Testimonials",
+    "link" : "See more Testimonials details on my Linkedin"
+  },
+  "contact": {
+    "address_title": "ADDRESS",
+    "phone_title": "PHONE",
+    "hire_me": "Hire Me",
+    "message": "\uD83D\uDDA5\uFE0F Actively seeking an apprenticeship contract or full-time remote job as a developer!",
+    "form": {
+      "name": "Name",
+      "message": "Message",
+      "submit": "Submit"
+    }
+  }
+}
