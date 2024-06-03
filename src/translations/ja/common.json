@@ -4,7 +4,8 @@
         "past_work": "過去の成果物",
         "skills": "スキル",
         "testimonials": "推薦文",
-        "hire_me": "連絡先"
+        "contact_me": "連絡先",
+        "language": "言語選択"
     },
     "about": {
         "name": "My Portfolio",
@@ -27,14 +28,24 @@
             "description": "EZ Shoppingプロジェクトは、Reactをベースにした取り組みで、Fake Store APIとシームレスに連携し、没入型のショッピング体験を提供しています。"
         },
         "french_school_mvc": {
-            "title": "PHPトラック",
+            "title": "PHP トラック",
             "subtitle": "PHPとJavascript",
             "description": "このプロジェクトでは、ネイティブのPHPとJavaScriptの融合を発見します。クイズやリスニング演習を備えたフランス語学習アプリを探索します。"
         },
         "pokemon": {
-            "title": "Reactトラック",
+            "title": "React トラック",
             "subtitle": "ReactとAPI",
             "description": "このReactプロジェクトでは、PokéAPIを使用してポケモンのチームを作成および管理します。ページをリロードする必要なしにポケモン情報を探索できます。"
+        },
+        "pizza-menu": {
+            "title": "React トラック",
+            "subtitle": "コンポーネント、プロップス、JSX",
+            "description": "このReactプロジェクトは、写真、材料、価格を備えたイタリアのピザメニューを動的に表示します。"
+        },
+        "eat-n-split": {
+            "title": "React トラック",
+            "subtitle": "ステート、ステートの持ち上げ、チルドレン",
+            "description": "Eat & Split: このReactプロジェクトは友人との支払いの計算を簡素化します。"
         }
     },
     "skills": {
@@ -81,9 +92,8 @@
         "link" : "Linkedinでは詳細を英語、及びにフランス語で掲載しております。"
     },
     "contact": {
-        "address_title": "在住所",
-        "phone_title": "フランス国内での電話番号",
-        "hire_me": "問い合わせフォーム",
+        "address_title": "所在地",
+        "contact_me": "問い合わせフォーム",
         "message": "\uD83C\uDFD9\uFE0F  海外フルリモートでのお仕事のご依頼等ありましたら、下記フォームまたは記載のメールアドレスにお問い合わせくださいませ。\n",
         "form": {
             "name": "お名前",

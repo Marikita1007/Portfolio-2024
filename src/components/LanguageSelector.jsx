@@ -19,7 +19,8 @@ export const LanguageSelector = () => {
     return (
         <div className="relative">
             <button className="inline-flex items-center justify-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-gray-700 hover:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500" onClick={toggleMenu}>
-               <img src="/globe.png"
+                {t('nav.language')}
+                <img src="/globe.png"
                     alt="language choices"
                     className="w-6 h-6 inline-block" />
             </button>

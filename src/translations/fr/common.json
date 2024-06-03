@@ -4,13 +4,14 @@
     "past_work": "Réalisations",
     "skills": "Compétences",
     "testimonials" : "Témoignages",
-    "hire_me" : "Engagez moi"
+    "contact_me" : "Contactez moi",
+    "language": "Langue"
   },
   "about": {
     "name": "Bonjour, je m'appelle Marika.",
     "introduction": "J'adore apprendre de nouvelles technologies.",
     "descriptions": "\uD83C\uDF93 Récemment diplômée avec un diplôme de \"Développeur web full stack\" après avoir terminé une alternance d'un an chez QuickMS !",
-    "work_with_me": "Travailler avec moi",
+    "work_with_me": "Contactez moi",
     "see_my_past_work": "Voir mes réalisations"
   },
   "project": {
@@ -35,6 +36,16 @@
       "title": "Suivi React",
       "subtitle": "React et API",
       "description": "Ce projet React utilise PokéAPI pour créer et gérer des équipes Pokémon. Explorez les informations sur les Pokémon sans avoir besoin de recharger la page."
+    },
+    "pizza-menu": {
+      "title": "Suivi React",
+      "subtitle": "Components, Props et JSX",
+      "description": "Ce projet React affiche de manière dynamique un menu de pizzas italiennes avec des photos, des ingrédients et des prix."
+    },
+    "eat-n-split": {
+      "title": "Suivi React",
+      "subtitle": "State, Levée de state, children",
+      "description": "Eat & Split: rationalisez la gestion des dépenses partagées pour une coordination financière sans effort."
     }
   },
   "skills": {
@@ -82,8 +93,7 @@
   },
   "contact" : {
     "address_title" : "ADRESSE",
-    "phone_title" : "PHONE",
-    "hire_me" : "Embauchez-moi",
+    "contact_me" : "Contactez moi",
     "message" : "\uD83D\uDDA5\uFE0F Recherche activement un contrat en alternance ou un emploi à distance à temps plein en tant que développeur !",
     "form": {
       "name" : "Nom",

@@ -1,4 +1,4 @@
-import { ArrowRightIcon } from "@heroicons/react/solid";
+import { MailIcon   } from "@heroicons/react/solid";
 import React from "react";
 import DownloadButton from './DownloadButton';
 import {LanguageSelector} from "./LanguageSelector";
@@ -43,8 +43,8 @@ export default function Navbar() {
                     <a
                         href="#contact"
                         className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-900 rounded text-base mt-4 md:mt-0">
-                        {t('nav.hire_me')}
-                        <ArrowRightIcon className="w-4 h-4 ml-1" />
+                        {t('nav.contact_me')}
+                        <MailIcon className="w-4 h-4 ml-1" />
                     </a>
                     <LanguageSelector />
                 </div>

@@ -4,7 +4,8 @@
     "past_work": "Past Work",
     "skills": "Skills",
     "testimonials": "Testimonials",
-    "hire_me": "Hire Me"
+    "contact_me": "Contact Me",
+    "language": "Language"
   },
   "about": {
     "name" : "Hi, I'm Marika.",
@@ -35,6 +36,16 @@
       "title": "React Tracks",
       "subtitle": "React and API",
       "description": "This React project using PokéAPI to create and manage Pokémon teams. Explore Pokémon information without the need for page reloading."
+    },
+    "pizza-menu": {
+      "title": "React Tracks",
+      "subtitle": "Components, Props, and JSX",
+      "description": "This React project dynamically displays an Italian pizza menu with photos, ingredients, and prices."
+    },
+    "eat-n-split": {
+      "title": "React Tracks",
+      "subtitle": "State, Lifting state, children",
+      "description": "Eat & Split: Streamline the Management of Shared Expenses for Effortless Financial Coordination."
     }
   },
   "skills" : {
@@ -81,8 +92,7 @@
   },
   "contact": {
     "address_title": "ADDRESS",
-    "phone_title": "PHONE",
-    "hire_me": "Hire Me",
+    "contact_me": "Contact Me",
     "message": "\uD83D\uDDA5\uFE0F Actively seeking an apprenticeship contract or full-time remote job as a developer!",
     "form": {
       "name": "Name",
